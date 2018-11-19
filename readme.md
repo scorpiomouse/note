@@ -12,7 +12,7 @@
 
 2018-11-19 10:16 [虚拟桌面-系统-X-WebDesktop-Vue](https://github.com/OXOYO/X-WebDesktop-Vue)
 
-2018-11-19 15:07 [前端模板-资源列表-Layui开发](https://fly.layui.com/case/2018/)
+2018-11-19 15:07 [前端模板-资源列表-Layui开发2018年度最佳案例](https://fly.layui.com/case/2018/)
 
 2018-11-19 15:40 [虚拟桌面-UI框架-WinAdmin](http://www.win-ui.com/)
 
