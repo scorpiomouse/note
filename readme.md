@@ -14,6 +14,10 @@
 
 2018-11-19 15:07 [前端模板-资源列表-Layui开发](https://fly.layui.com/case/2018/)
 
+####  管理系统
+
+2018-11-19 15:23 [免费缺陷管理系统-Hibug](http://www.hibug.cn/project-list.html)
+
 ####  其他
 
 2018-11-19 15:07 [影视娱乐-GOTV](http://www.go168.xyz/index)
