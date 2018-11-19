@@ -18,6 +18,6 @@
 
 2018-11-19 15:23 [免费缺陷管理系统-Hibug](http://www.hibug.cn/project-list.html)
 
-####  其他
+####  娱乐休闲
 
 2018-11-19 15:07 [影视娱乐-GOTV](http://www.go168.xyz/index)
